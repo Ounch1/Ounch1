@@ -6,10 +6,7 @@
 ## 📡 Business
 - 🛠 Can work with: Java, C#, SQL
 - 🦄 Agile methods: Scrum, Kanban
-- 📫 How to reach me:
- - Discord: ounch1 
- - Telegram: https://t.me/Ounch1
- - Email: iliagrigorev15@gmail.com
+- 📫 How to reach me: Telegram: https://t.me/Ounch1 / Email: iliagrigorev15@gmail.com
 ## 💻 Learning
 - 🐟 Currently studying at YRGO, Gothenburg
 - 🌱 I’m currently learning JavaScript, HTML, C++ and MongoDB
