@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Ilja👹</h1>
-<h3 align="center">A Computer Science student from Sweden</h3>
+<h3 align="center">"Software Development Student"</h3>
 
 ![](https://i.imgur.com/JInS4Ko.png)
 
