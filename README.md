@@ -13,5 +13,5 @@
 - 🐙 I’m interested in C and Python
 ## 🫐 Misc
 - 🤓 Mostly work on games in my spare time
-- 🫧 Do digital art from time to time
+- 🫧 Love doing digital art
 - ⚡ Fun fact: I order milk at McDonalds
