@@ -4,8 +4,7 @@
 ![](https://i.imgur.com/JInS4Ko.png)
 
 ## 📡 Business
-- ✨ Interested in working on absolutely anything!
-- 🧑‍🏭 Relatively proficient with Java, C#, SQL, MongoDB
+- 🧑‍🏭 Can work with Java, C#, SQL, MongoDB
 - 🦄 Agile methods: Scrum, Kanban
 - 📫 How to reach me: Discord: ounch1 / Telegram: https://t.me/Ounch1
 ## 💻 Learning
