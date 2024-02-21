@@ -5,3 +5,4 @@
 - 🌱 I’m currently learning C++ and JavaScript
 - 📫 How to reach me: Discord: ounch1 / Telegram: https://t.me/Ounch1
 - ⚡ Fun fact: I order milk at McDonalds
+![](https://i.imgur.com/JInS4Ko.png)
