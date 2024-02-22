@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, I'm Ilja👹</h1>
 <h3 align="center">"Software Development Student"</h3>
 
-![](https://i.imgur.com/JInS4Ko.png)
+<img src="https://i.imgur.com/JInS4Ko.png">
 
 ## 📡 Business
 - 🛠 Can work with: Java, C#, SQL
